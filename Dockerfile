@@ -1,4 +1,4 @@
-FROM ubuntu:14.04.1
+FROM ubuntu:14.10
 MAINTAINER Matt Sparks <ms@quadpoint.org>
 
 # Install prosody.
