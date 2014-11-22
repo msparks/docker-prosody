@@ -4,9 +4,8 @@ This is a Docker image for [Prosody](http://prosody.im), a light-weight XMPP
 server.
 
 This Docker image is intended to be used a base for other Docker images that
-include their own virtual hosts and SSL keys, i.e., with a `FROM
-msparks/prosody` statement in your Dockerfile. You should not use this image by
-itself.
+include their own virtual hosts and SSL keys; see the section below on deriving
+from this image. You should not use this image by itself.
 
 This image is automatically published on the
 [Docker Hub](https://hub.docker.com/) at
