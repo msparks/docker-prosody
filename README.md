@@ -9,7 +9,7 @@ from this image. You should not use this image by itself.
 
 This image is automatically published on the
 [Docker Hub](https://hub.docker.com/) at
-[msparks/prosody](https://registry.hub.docker.com/u/msparks/devbox/).
+[msparks/prosody](https://registry.hub.docker.com/u/msparks/prosody/).
 
 ## Usage
 
